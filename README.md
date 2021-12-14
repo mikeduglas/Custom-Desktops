@@ -10,8 +10,9 @@ Just add global extension to your apps, that's all.
 Standard People app (examples\people): just run the exe and see how it works.
 
 ### Features
-- No black boxes
-- It allows to run any program on custom desktop
+- There are no black boxes
+- Run on custom desktop any external program, not only yours
+- Switch between custom and default desktops
 
 ### Requirements
 - C6 and newer
