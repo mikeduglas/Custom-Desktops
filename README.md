@@ -7,7 +7,8 @@ has no access to other Windows programs. No start menu, no taskbar, no desktop i
 Just add global extension to your apps, that's all.
 
 ### Examples
-Standard People app (examples\people): just run the exe and see how it works.
+- Standard People app (examples\people): just run the exe and see how it works.
+- More interesting example: [customizable shell](https://www.dropbox.com/sh/fk0r16y7ag9digq/AAD65G1RtyBVQJxDOMh0NfV1a?dl=0). Download all, go to Shell folder and run CustomShell.exe.
 
 ### Features
 - There are no black boxes
