@@ -31,4 +31,4 @@ Just add global extension to your apps, that's all.
 - <mikeduglas66@gmail.com>
 
 ### Price
-- $100
+[Buy now](https://www.clarionshop.com/checkout.cfm?pid=1694&q=1)
